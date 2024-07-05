@@ -1,5 +1,5 @@
 # treemap-file-organizer 🌲
-# University project that makes use of file system trees and treemaps to organize files and folders using a visual system.
+## University project that makes use of file system trees and treemaps to organize files and folders using a visual system.
 
 As a software developer, I created an interactive treemap visualization tool to display hierarchical data structures, specifically focusing on file system trees. A treemap uses rectangles to represent files and folders, with the size of each rectangle proportional to the size of the data it represents. This allows for a clear visual representation of how storage is distributed across a file system.
 
